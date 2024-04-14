@@ -1,2 +1,2 @@
-# -c--exercises
+# -Cplusplus-exercises
 Let's learn C++
